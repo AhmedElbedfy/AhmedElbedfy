@@ -5,7 +5,9 @@
 ```javascript
 const life: AhmedKhaledLife = {
   greet:
-    "Hi again 👋, my name is Ahmed, I'm a passioned front-end developer ✨ looking for an awesome opportunity to craft my skills and to gain proper knowledge about the web which I love 😍, please take your time check out my repositories and feel free to contact me",
+    "Hi again 👋, my name is Ahmed, I'm a passioned front-end developer ✨ 
+    looking for an awesome opportunity to craft my skills and to gain proper knowledge about the web which I love 😍,
+    please take your time check out my repositories and feel free to contact me".
     Biography: "Passionate Front-end Developer, Reader, and Coffee Lover with a Bachelor’s Degree in Economics. From Egypt,"
     nowLearning: "How to be a better developer? 👍",
     askMeAbout: "Front-end technologies",
