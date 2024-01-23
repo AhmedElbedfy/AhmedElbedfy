@@ -6,15 +6,15 @@
 const life: {
    Meet: "IT Swiss Army Knife 🗡 | Code Weaver by Day ☀, Tech Guru by Night 🌃 | Always Learning ",
    Intro:
-      "Hello, world! I’m Ahmed Khaled Elbedfy, a versatile IT professional who can code, design, and troubleshoot anything related to the web. I enjoy weaving code by day and exploring new tech by night. I never stop learning and growing as a web developer.",
+      "Hello, world! I’m Ahmed Khaled Elbedfy, a versatile IT professional who can code, design,\n and troubleshoot anything related to the web. I enjoy weaving code by day and exploring new tech by night. I never stop learning and growing as a web developer.",
    Welcoming:
-      "Welcome to my GitHub page, where you can find some awesome projects and repositories. I love to create stunning and functional websites using the latest technologies and frameworks. I always seek opportunities to challenge myself and learn from others in the web community.",
+      "Welcome to my GitHub page, where you can find some awesome projects and repositories.\n I love to create stunning and functional websites using the latest technologies and frameworks. I always seek opportunities to challenge myself and learn from others in the web community.",
    LookingFor:
-      "I am looking for an awesome opportunity to craft my skills and to gain proper knowledge about the web which I love 😍.",
-   TakeYourTime: "Please take your time to check out my repositories and feel free to contact me. I would love to hear from you and collaborate on some exciting web projects",
-   About: "A little bit more about me: I am a front-end developer, a reader, and a coffee lover with a bachelor’s degree in economics. I am from Egypt, but I am always open to new cultures and experiences.",
-   CurrentlyLearning: " I am currently learning about networking, C++, Java, data structures, algorithms, and a lot more",
-   AskMeAbout: "Let's have a discussion, You can ask me anything about new tech, laptops, economics, coding, and entrepreneurship.",
+      "I am looking for an awesome opportunity to craft my skills and to gain proper knowledge\n about the web which I love 😍.",
+   TakeYourTime: "Please take your time to check out my repositories and feel free to contact me.\n I would love to hear from you and collaborate on some exciting web projects",
+   About: "A little bit more about me: I am a front-end developer, a reader, and a coffee lover\n with a bachelor’s degree in economics. I am from Egypt, but I am always open to new cultures and experiences.",
+   CurrentlyLearning: " I am currently learning about networking, C++, Java, data structures,\n algorithms, and a lot more",
+   AskMeAbout: "Let's have a discussion, You can ask me anything about new tech, laptops,\n economics, coding, and entrepreneurship.",
     HowToReachMe: ["✉️:ahmed.khaled.hussain@gmail.com", "📞: 01159593645"],
 };
 
