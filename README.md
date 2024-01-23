@@ -6,7 +6,7 @@
 const life: {
    Meet: "IT Swiss Army Knife 🗡 | Code Weaver by Day ☀, Tech Guru by Night 🌃 | Always Learning ",
    Intro:
-      "Hello, world! I’m Ahmed Khaled Elbedfy, a versatile IT professional who can code, design,\n and troubleshoot anything related to the web. I enjoy weaving code by day and exploring new tech by night. I never stop learning and growing as a web developer.",
+      `Hello, world! I’m Ahmed Khaled Elbedfy, a versatile IT professional who can code, design,\n and troubleshoot anything related to the web. I enjoy weaving code by day and exploring new tech by night. I never stop learning and growing as a web developer.`,
    Welcoming:
       "Welcome to my GitHub page, where you can find some awesome projects and repositories.\n I love to create stunning and functional websites using the latest technologies and frameworks. I always seek opportunities to challenge myself and learn from others in the web community.",
    LookingFor:
